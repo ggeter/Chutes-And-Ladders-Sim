@@ -1,0 +1,29 @@
+{
+  "//1": "describes your app and its dependencies",
+  "//2": "https://docs.npmjs.com/files/package.json",
+  "//3": "updating this file will download and update your packages",
+  "name": "serverjs-tutorial-ggeter-llc",
+  "version": "0.0.1",
+  "description": "Testing serverjs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest --coverage --forceExit"
+  },
+  "dependencies": {
+    "lodash": "^4.17.10",
+    "server": "^1.0.18"
+  },
+  "engines": {
+    "node": "8.9.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "server.js"
+  ]
+}

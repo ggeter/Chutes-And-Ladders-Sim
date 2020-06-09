@@ -1,2 +1,4 @@
-# Chutes-And-Ladders-Sim
-Simulating 10000 games and demonstrating minimum number of rolls to win the game.
+Chutes and Ladders Sim
+======================
+
+Simulates many games and shows the least number of rolls it takes to win.
